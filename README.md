@@ -6,3 +6,5 @@ These "smart" quotes for example breaks json files
 This scripts finds those strange characters in a string and replaces them with regular qoutes.
 
 The most robust way to do this I found is to find the hexadecimal representation of the quote and do a string replace.
+
+I hope you find this function usefull
